@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="Positive or Negative #, in PHP" />
+  <meta name="description" content="Watch a Movie, in PHP" />
   <meta name="keywords" content="mths, icd2o" />
   <meta name="author" content="Bain Liao" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
